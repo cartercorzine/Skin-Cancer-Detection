@@ -1,0 +1,42 @@
+# macOS system files
+.DS_Store
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# R / RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large data and model files (DON'T upload)
+data/
+datasets/
+models/
+outputs/
+*.csv
+*.tsv
+*.zip
+*.tar
+*.gz
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.onnx
+*.rds
+*.rda
+*.sav
+*.npy
+*.npz
+*.mp4
+*.mov
+*.png
+*.jpg
+*.jpeg
+*.pdf
